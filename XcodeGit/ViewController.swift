@@ -13,8 +13,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("初めてのコミット")
+        
     }
-
+    @IBAction func Button(_ sender: Any) {
+    }
+    
 
 }
 
